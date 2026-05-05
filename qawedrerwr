@@ -1,8 +1,0 @@
-<form id="dogQuiz">
-    <h3>Любите ли вы активные прогулки?</h3>
-    <input type="radio" name="q1" value="yes"> Да<br>
-    <input type="radio" name="q1" value="no"> Нет<br>
-    <button type="button" onclick="alert('Ретривер вам точно подойдет!')">Узнать результат</button>
-</form>
-
-<div class="animated-box">Я люблю бегать!</div>
