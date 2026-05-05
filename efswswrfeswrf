@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Уход и данные</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="index.html">Главная</a></li>
+            <li><a href="gallery.html">Галерея</a></li>
+            <li><a href="care.html">Характеристики</a></li>
+            <li><a href="quiz.html">Тест</a></li>
+        </ul>
+    </nav>
+
+    <h2>Сравнительные характеристики</h2>
+    <table border="1">
+        <tr>
+            <th>Параметр</th>
+            <th>Значение</th>
+        </tr>
+        <tr>
+            <td>Продолжительность жизни</td>
+            <td>10-12 лет</td>
+        </tr>
+        <tr>
+            <td>Вес</td>
+            <td>25-36 кг</td>
+        </tr>
+        <tr>
+            <td>Сложность ухода</td>
+            <td>Средняя (нужна выческа)</td>
+        </tr>
+    </table>
+
+    <h3>Что нужно купить щенку:</h3>
+    <ol>
+        <li>Поводок и ошейник</li>
+        <li>Миски для еды и воды</li>
+        <li>Лежанку</li>
+        <li>Игрушки (много игрушек!)</li>
+    </ol>
+</body>
+</html>
