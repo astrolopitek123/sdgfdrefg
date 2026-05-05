@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fff9e6; /* Светло-желтый под цвет шерсти */
+}
+
+nav ul {
+    background: #f39c12;
+    padding: 10px;
+    list-style: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+/* Пример анимации для выполнения ТЗ */
+.animated-box {
+    width: 150px;
+    height: 50px;
+    background: gold;
+    margin-top: 20px;
+    text-align: center;
+    line-height: 50px;
+    position: relative;
+    animation: moveBox 3s infinite alternate;
+}
+
+@keyframes moveBox {
+    from { left: 0; }
+    to { left: 200px; }
+}
