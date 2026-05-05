@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Мир Золотистых Ретриверов</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="index.html">Главная</a></li>
+            <li><a href="gallery.html">Галерея</a></li>
+            <li><a href="care.html">Характеристики</a></li>
+            <li><a href="quiz.html">Тест</a></li>
+        </ul>
+    </nav>
+
+    <header>
+        <h1>Все о Золотистых Ретриверах</h1>
+        <p>Самые добрые собаки в мире!</p>
+    </header>
+
+    <main>
+        <section>
+            <h2>Почему стоит выбрать ретривера?</h2>
+            <ul>
+                <li>Прекрасный характер</li>
+                <li>Любовь к детям</li>
+                <li>Высокий интеллект</li>
+            </ul>
+            <img src="images/main_dog.jpg" alt="Золотистый ретривер на траве" width="500">
+        </section>
+    </main>
+
+    <footer>
+        <p>Внешняя ссылка: <a href="https://ru.wikipedia.org/wiki/Золотистый_ретривер" target="_blank">Википедия о породе</a></p>
+    </footer>
+</body>
+</html>
